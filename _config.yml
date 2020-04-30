@@ -14,7 +14,7 @@ title: 'Shyngyskhan Abilkassov | information, portfolio, blogs'
 slogan: 'My personal website where I share my thoughts, ideas and what I am working on'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'This website serves as the main destination for everything I have done, currently doing or willing to do. It is semi-professional usage where along with my portfolios, projects and ideas share my thoughts and ideas.'
+description: 'This website serves as the main destination for everything I have done, currently doing or going to do. It is a semi-professional webpage where along with my portfolios, projects and ideas I share my thoughts and ideas.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by <a href="https://github.com/kurshakuz">Shyngyskhan</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'

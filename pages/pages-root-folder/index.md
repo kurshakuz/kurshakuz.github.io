@@ -17,13 +17,13 @@ widget2:
   title: "Portfolio"
   url: 'http://kurshakuz.github.io/portfolio/'
   image: widget-1-302x182.jpg
-  text: 'Here is all projects that I have done during my studies, research work or out of willingnes. My interest span from mobile robotics and control to computer vision and deep learning'
+  text: 'Here are all projects that I have done during my studies, research work or out of curiosity. My interest span from mobile robotics and control to computer vision and deep learning.'
 
 widget3:
   title: "Blog"
   url: 'http://kurshakuz.github.io/blog/'
   image: widget3.jpg
-  text: 'Here I share my thoughts about my hobbies, education, and work. It consists of various topics starting from mountain hiking, snowboarding, active tourism to career in robotics and mechatronics and graduate schools'
+  text: 'Here I share my thoughts about my hobbies, education, and work. It consists of various topics starting from mountain hiking, snowboarding, active tourism to career in robotics and mechatronics and graduate schools.'
 #
 # Use the call for action to show a button on the frontpage
 #
