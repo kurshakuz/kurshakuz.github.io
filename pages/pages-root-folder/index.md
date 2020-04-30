@@ -36,7 +36,7 @@ widget3:
 #
 
 callforaction:
-  url: http://kurshakuz.github.io/contacts
+  url: http://kurshakuz.github.io/contact
   text: Contact me ›
   style: alert
 permalink: /index.html
