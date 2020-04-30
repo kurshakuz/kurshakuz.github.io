@@ -11,8 +11,8 @@ header:
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
-        <p> Website: Nixdorf Internatsberatung &amp; Schulberatung</p>
+        <img src="{{ site.urlimg }}/amazon-robot/amazon1.png" alt="">
+        <p> Amazon Warehouse: <a href="https://kurshakuz.github.io/portfolio/amazon-warehouse/">Project</a></p>
     </div>
 
     <div class="medium-6 columns b30">
@@ -40,3 +40,8 @@ header:
 </div><!-- /.row -->
 
 
+<ul>
+    {% for post in site.categories.portfolio %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
