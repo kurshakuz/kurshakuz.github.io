@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Portfolio"
 subheadline: "Showcase of my works"
-teaser: "Get in touch with me? Use the contact form."
+# teaser: "Get in touch with me? Use the contact form."
 permalink: "/portfolio/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
@@ -13,13 +13,13 @@ header:
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
         <p> Website: Nixdorf Internatsberatung &amp; Schulberatung</p>
-    </div><!-- /.medium-6.columns -->
+    </div>
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
-        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
+        <p> Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
+    </div>
+</div>
 
 
 <div class="row t30">
