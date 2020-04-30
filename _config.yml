@@ -8,10 +8,11 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Shyngyskhan's website"
+title: 'Shyngyskhan`s website'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'My personal website where I share my thoughts, ideas and what I am working on'
+# slogan: 'My personal website where I share my thoughts, ideas and what I am working on'
+slogan: 'stay hungry, stay foolish'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'This website serves as the main destination for everything I have done, currently doing or willing to do. It is semi-professional usage where along with my portfolios, projects and ideas share my thoughts and ideas.
