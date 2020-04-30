@@ -1,12 +1,22 @@
 - name: GitHub
   url: http://github.com/kurshakuz
   class: icon-github
-  title: Code
+  title: GitHub profile
 
 - name: YouTube
   url: https://www.youtube.com/channel/UC4tqcUKgDWn5xDj_UalO4Hg
   class: icon-youtube
-  title: "Videos"
+  title: "YouTube channel"
+
+- name: Facebook
+  url: https://www.facebook.com/abilkassov/
+  class: icon-facebook
+  title: "Facebook account"
+
+- name: Instagram
+  url: https://www.instagram.com/abilkassov/
+  class: icon-instagram
+  title: "Instagram account"
 
 # - name: Twitter
 #   url: http://twitter.com/
@@ -23,19 +33,9 @@
 #   class: icon-googleplus
 #   title: "YouTube Google+"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
-
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
 #   title: ""
 
 # - name: Pinterest
