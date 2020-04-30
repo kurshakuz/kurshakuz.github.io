@@ -35,11 +35,11 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 
-callforaction:
-  url: http://kurshakuz.github.io/contact
-  text: Contact me ›
-  style: alert
-permalink: /index.html
+# callforaction:
+#   url: http://kurshakuz.github.io/contact
+#   text: Contact me ›
+#   style: alert
+# permalink: /index.html
 
 #
 # This is a nasty hack to make the navigation highlight
