@@ -1,10 +1,11 @@
 ---
 layout: page-fullwidth
 title: "Portfolio"
-meta_title: "Showcase of my works"
 subheadline: "Showcase of my works"
 teaser: "Get in touch with me? Use the contact form."
 permalink: "/portfolio/"
+header:
+   image_fullwidth: "header_roadmap_2.jpg"
 ---
 <!--more-->
 
