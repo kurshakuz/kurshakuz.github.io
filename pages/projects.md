@@ -17,7 +17,7 @@ header:
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}drowsiness/preview.jpg" alt="">
-        <p> Driver Drowsiness: <a href="https://kurshakuz.github.io/projects/driver-drowsiness/">Project</a></p>
+        <p> Driver Drowsiness Estimation: <a href="https://kurshakuz.github.io/projects/driver-drowsiness/">Project</a></p>
     </div>
 </div>
 
@@ -41,7 +41,7 @@ header:
 
 
 <ul>
-    {% for post in site.categories.portfolio %}
+    {% for post in site.categories.projects %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
