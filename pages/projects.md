@@ -24,8 +24,8 @@ header:
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_stilwandel.jpg" alt="">
-        <p>Website: <a href="http://stilwandel-koeln.de">Stilwandel-Koeln.de</a></p>
+        <img src="{{ site.urlimg }}distraction/preview.png" alt="">
+        <p>Distracted Driver Classification: <a href="https://kurshakuz.github.io/projects/distracted-driver/">Project</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
