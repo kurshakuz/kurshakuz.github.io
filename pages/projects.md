@@ -5,7 +5,7 @@ subheadline: "Showcase of my works"
 # teaser: "Get in touch with me? Use the contact form."
 permalink: "/projects/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "header_unsplash_7.jpg"
 ---
 <!--more-->
 
