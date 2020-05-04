@@ -16,7 +16,7 @@ header:
     </div>
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}/drowsiness/driver_state3.jpg" alt="">
+        <img src="{{ site.urlimg }}/drowsiness/preview.jpg" alt="">
         <p> Driver Drowsiness: <a href="https://kurshakuz.github.io/projects/driver-drowsiness/">Project</a></p>
     </div>
 </div>
