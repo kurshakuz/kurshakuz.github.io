@@ -16,8 +16,8 @@ header:
     </div>
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
-        <p> Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
+        <img src="{{ site.urlimg }}/drowsiness/driver_state3.jpg" alt="">
+        <p> Driver Drowsiness: <a href="https://kurshakuz.github.io/projects/driver-drowsiness/">Project</a></p>
     </div>
 </div>
 
