@@ -5,8 +5,8 @@ title:  "Driver Drowsiness Estimation"
 teaser: "Implemented multiple papers on driver drowsiness estimation based on eye region extraction, segmentation, and morphological analysis for estimation of person drowsiness during driving."
 breadcrumb: true
 categories:
-    - portfolio
-permalink: /portfolio/driver-drowsiness/
+    - projects
+permalink: /projects/driver-drowsiness/
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:

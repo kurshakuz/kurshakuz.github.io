@@ -14,8 +14,8 @@ widget1:
   image: me1.jpg
   text: 'Here is some information about my background, education, skills, and experiences. If you like to know more, feel free to contact me, all information is available here too.'
 widget2:
-  title: "Portfolio"
-  url: 'http://kurshakuz.github.io/portfolio/'
+  title: "Projects"
+  url: 'http://kurshakuz.github.io/projects/'
   image: widget-1-302x182.jpg
   text: 'Here are all projects that I have done during my studies, research work or out of curiosity. My interest span from mobile robotics and control to computer vision and deep learning.'
 

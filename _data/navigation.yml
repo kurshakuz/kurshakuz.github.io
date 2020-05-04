@@ -6,8 +6,8 @@
   url: "/info/"
   side: left
 
-- title: Portfolio
-  url: "/portfolio/"
+- title: Projects
+  url: "/projects/"
   side: left
 
 # - title: "Templates"
