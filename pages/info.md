@@ -9,11 +9,13 @@ header:
 ---
 ...and continue learning at the same time.
 
-asda
 
-## Background
+## Basic information
 
+My name is Shyngyskhan Abilkassov and I live and study in Astana, Kazakhstan. I enjoy listening to music, active tourism, snowboarding, and little bit of playing a guitar. I also love reading historical (Les Rois maudits) as well as epic fantasy books like A Song of Ice and Fire.
 
-## I got inspired by...
+## Education
+
+I am currently a BSc student at Nazarbayev University majoring in Robotics and Mechatronics. I have taken multiple courses on the robot dynamics and kinematics, control, image processing, and machine learning. 
 
  [8]: {{ site.url }}/design/gallery/]

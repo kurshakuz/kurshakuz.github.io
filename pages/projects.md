@@ -12,7 +12,7 @@ header:
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}/amazon-robot/amazon1.png" alt="">
-        <p> Amazon Warehouse: <a href="https://kurshakuz.github.io/projectsamazon-warehouse/">Project</a></p>
+        <p> Amazon Warehouse: <a href="https://kurshakuz.github.io/projects/amazon-warehouse/">Project</a></p>
     </div>
 
     <div class="medium-6 columns b30">
