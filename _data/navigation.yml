@@ -9,6 +9,13 @@
 - title: Projects
   url: "/projects/"
   side: left
+  dropdown:
+  - title: "Amazon Warehouse"
+    url: "/projects/amazon-robot/"
+  - title: "Driver Drowsiness Detection"
+    url: "/projects/drowsiness/"
+  - title: "Distracted Driver Posture Identification"
+    url: "/projects/distraction/"
 
 # - title: "Templates"
 #   url: "/design/"
