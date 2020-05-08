@@ -4,6 +4,8 @@ title: "Contact"
 meta_title: "Contact me"
 # subheadline: "Wufoo-powered contact forms"
 teaser: "Shyngyskhan Abilkassov"
+header:
+   image_fullwidth: "header_unsplash_1.jpg"
 permalink: "/contact/"
 ---
 
