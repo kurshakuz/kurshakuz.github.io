@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /home/
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/cover/header.jpg
@@ -35,11 +35,11 @@ youTube_id: ID7qaEcIu4k
 
 ---
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
 
-<!-- text-->
+text
 
-<figure class="half">
+<!-- <figure class="half">
     <a href="/assets/images/cover/none.png"><iframe src="https://www.youtube.com/embed/CQ46mjqTmr8&t"></iframe></a>
     <a href="/assets/images/cover/none.jpg"><iframe src="https://www.youtube.com/embed/E72fZ3sGDKs"></iframe></a>
-</figure>
+</figure> -->
