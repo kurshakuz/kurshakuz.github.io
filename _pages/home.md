@@ -11,7 +11,7 @@ feature_row:
     alt: "About me"
     title: "About me"
     excerpt: "Here is some information about my background, education, skills, and experiences. If you like to know more, feel free to contact me, all information is available here too."
-    url: "/about-me/"
+    url: "/info/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
@@ -23,11 +23,11 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/cover/typewriter.jpg
+  - image_path: /assets/images/cover/widget3.jpg
     alt: "Blog"
     title: "Blog"
     excerpt: "Here I share my thoughts about my hobbies, education, and work. It consists of various topics starting from mountain hiking, snowboarding, active tourism to career in robotics and mechatronics and graduate schools."
-    url: "/activities/"
+    url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
 
