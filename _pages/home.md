@@ -26,18 +26,16 @@ feature_row:
   - image_path: /assets/images/cover/widget3.jpg
     alt: "Blog"
     title: "Blog"
-    excerpt: "Here I share my thoughts about my hobbies, education, and work. It consists of various topics starting from mountain hiking, snowboarding, active tourism to career in robotics and mechatronics and graduate schools."
+    excerpt: "Here I share my thoughts about my hobbies, education, and work - everything - starting from mountain hiking, snowboarding, travelling to career in robotics and graduate schools."
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
-
-youTube_id: ID7qaEcIu4k
 
 ---
 
 {% include feature_row %}
 
-text
+<!-- text -->
 
 <!-- <figure class="half">
     <a href="/assets/images/cover/none.png"><iframe src="https://www.youtube.com/embed/CQ46mjqTmr8&t"></iframe></a>
