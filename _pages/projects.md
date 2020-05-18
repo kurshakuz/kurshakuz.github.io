@@ -5,16 +5,14 @@ permalink: /projects/
 
 classes: wide
 
-sidebar:
-  nav: "docs"
+author_profile: true
+
+# sidebar:
+#   nav: "docs"
 
 #header:
 #  overlay_color: "#5e616c"
 #  overlay_image: /assets/images/cover/header.png
-
-#excerpt: 
-#  Toolkit for developing Robotics and Computer Vision applications
-
 
 projects: 
   - image_path: /assets/images/projects/amazon-robot/amazon1.png
