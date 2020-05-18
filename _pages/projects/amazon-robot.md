@@ -2,8 +2,9 @@
 permalink: /projects/amazon-warehouse/
 title: "Amazon Warehouse"
 
-sidebar:
-  nav: "docs"
+# sidebar:
+#   nav: "docs"
+author_profile: true
 
 classes: wide
 

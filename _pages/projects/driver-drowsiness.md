@@ -2,8 +2,9 @@
 permalink: /projects/driver-drowsiness/
 title: "Driver Drowsiness Estimation"
 
-sidebar:
-  nav: "docs"
+# sidebar:
+#   nav: "docs"
+author_profile: true
 
 classes: wide
 

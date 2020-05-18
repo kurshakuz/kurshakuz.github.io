@@ -2,8 +2,9 @@
 permalink: /projects/distracted-driver/
 title: "Distracted Driver Identification"
 
-sidebar:
-  nav: "docs"
+# sidebar:
+#   nav: "docs"
+author_profile: true
 
 classes: wide
 

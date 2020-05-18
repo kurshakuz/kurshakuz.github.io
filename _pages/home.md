@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/cover/me.jpg
     alt: "About me"
     title: "About me"
-    excerpt: "Here is some information about my background, education, skills, and ex- periences. If you like to know more, feel free to contact me, all information is available here too."
+    excerpt: "Here is some information about my background, education, skills, and experien- ces. If you like to know more, feel free to contact me, all information is available here too."
     url: "/info/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -37,7 +37,7 @@ feature_row:
 
 <!-- text -->
 
-<!-- <figure class="half">
+<figure class="half">
     <a href="/assets/images/cover/none.png"><iframe src="https://www.youtube.com/embed/CQ46mjqTmr8&t"></iframe></a>
     <a href="/assets/images/cover/none.jpg"><iframe src="https://www.youtube.com/embed/E72fZ3sGDKs"></iframe></a>
-</figure> -->
+</figure>
