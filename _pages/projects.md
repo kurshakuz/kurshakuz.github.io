@@ -46,4 +46,4 @@ projects:
 
 Here is the highlight of some of my projects:
 
-{% include feature_row_advanced %}
+{% include feature-row-advanced %}
