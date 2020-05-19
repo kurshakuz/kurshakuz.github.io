@@ -1,5 +1,5 @@
 ---
-title: My projects
+title: Personal and research projects
 layout: collection
 permalink: /projects/
 
@@ -16,8 +16,8 @@ author_profile: true
 
 projects: 
   - image_path: /assets/images/projects/amazon-robot/amazon1.png
-    alt: "Amazon Warehouse"
-    title: "Amazon Warehouse" 
+    alt: "Autonomous pallet distribution in Amazon warehouse"
+    title: "Autonomous pallet distribution in Amazon warehouse" 
     # excerpt: ""
     url: "/projects/amazon-warehouse/"
     btn_class: "btn--primary"
@@ -60,10 +60,12 @@ feature_row:
 
 ---
 
+## Personal projects
 Here is the highlight of some of my personal and team projects:
 
 {% include feature-row-advanced %}
 
+## Research projects
 Here is the highlight of research projects I have actively participated:
 
 {% include feature_row %}

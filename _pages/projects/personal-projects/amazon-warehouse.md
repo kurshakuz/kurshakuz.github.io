@@ -1,5 +1,5 @@
 ---
-title: Amazon Warehouse
+title: Autonomous pallet distribution in Amazon warehouse
 layout: archive
 permalink: /projects/amazon-warehouse/
 
