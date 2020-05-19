@@ -15,7 +15,7 @@ author_profile: true
 #  overlay_image: /assets/images/cover/header.png
 
 projects: 
-  - image_path: /assets/images/projects/amazon-robot/amazon1.png
+  - image_path: /assets/images/projects/amazon-warehouse/amazon1.png
     alt: "Autonomous pallet distribution in Amazon warehouse"
     title: "Autonomous pallet distribution in Amazon warehouse" 
     # excerpt: ""
@@ -33,7 +33,7 @@ projects:
 
   - image_path: /assets/images/projects/distraction/preview.png
     alt: "Distracted Driver Classification"
-    title: "Distracted Driver Classification"
+    title: "Distracted Driver Posture and Head Position Identification via m-CNNs"
     # excerpt: ""
     url: "/projects/distracted-driver/"
     btn_class: "btn--primary"
