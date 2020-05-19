@@ -66,4 +66,4 @@ Here is the highlight of some of my personal and team projects:
 
 Here is the highlight of research projects I have actively participated:
 
-{% include feature-row %}
+{% include feature_row %}
