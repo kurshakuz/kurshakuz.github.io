@@ -18,7 +18,7 @@ projects:
   - image_path: /assets/images/projects/amazon-robot/amazon1.png
     alt: "Amazon Warehouse"
     title: "Amazon Warehouse" 
-    # excerpt: "Several development areas: robot programming tools, learning robotics, drones, SLAM algorithms, DeepLearning. All of them are open for collaboration."
+    # excerpt: ""
     url: "/projects/amazon-warehouse/"
     btn_class: "btn--primary"
     btn_label: "More"
@@ -26,7 +26,7 @@ projects:
   - image_path: /assets/images/projects/drowsiness/preview.jpg
     alt: "Driver Drowsiness Estimation"
     title: "Driver Drowsiness Estimation"
-    # excerpt: "[VisualSLAM](https://github.com/JdeRobot/SDslam) uses computer vision to locate a 3D camera with 6 degrees of freedom inside a unknown environment and, at the same time, create a map of this environment."
+    # excerpt: ""
     url: "/projects/driver-drowsiness/"
     btn_class: "btn--primary"
     btn_label: "More"
@@ -34,7 +34,7 @@ projects:
   - image_path: /assets/images/projects/distraction/preview.png
     alt: "Distracted Driver Classification"
     title: "Distracted Driver Classification"
-    # excerpt: "The new Hardware Abstraction Layer (HAL) for working in robotic applications for Unmanned Aerial Vehicles (UAVs) in JdeRobot is based on using ROS/Gazebo, PX4 and MavROS."
+    # excerpt: ""
     url: "/projects/distracted-driver/"
     btn_class: "btn--primary"
     btn_label: "More"   
