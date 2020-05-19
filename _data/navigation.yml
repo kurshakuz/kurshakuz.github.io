@@ -11,11 +11,11 @@ projects:
   - title: "Personal projects"
     url: /projects
     children:
-      - title: "Amazon Warehouse"
+      - title: "Autonomous pallet distribution in Amazon warehouse"
         url: /projects/amazon-warehouse/
-      - title: "Driver Drowsiness Estimation"
+      - title: "Open source Driver Drowsiness Estimation"
         url: /projects/driver-drowsiness/
-      - title: "Distracted Driver Identification"
+      - title: "Distracted Driver Posture and Head Position Identification via m-CNNs"
         url: /projects/distracted-driver/
       # - title: "name"
       #   url: /projects/link/

@@ -24,15 +24,15 @@ projects:
     btn_label: "Learn more"
 
   - image_path: /assets/images/projects/drowsiness/preview.jpg
-    alt: "Driver Drowsiness Estimation"
-    title: "Driver Drowsiness Estimation"
+    alt: "Open source Driver Drowsiness Estimation"
+    title: "Open source Driver Drowsiness Estimation"
     # excerpt: ""
     url: "/projects/driver-drowsiness/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
   - image_path: /assets/images/projects/distraction/preview.png
-    alt: "Distracted Driver Classification"
+    alt: "Distracted Driver Posture and Head Position Identification via m-CNNs"
     title: "Distracted Driver Posture and Head Position Identification via m-CNNs"
     # excerpt: ""
     url: "/projects/distracted-driver/"
