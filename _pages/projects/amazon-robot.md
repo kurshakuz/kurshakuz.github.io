@@ -1,12 +1,13 @@
 ---
 title: Amazon Warehouse
-permalink: /projects/amazon-warehouse/
 layout: archive
+permalink: /projects/amazon-warehouse/
+
 classes: wide
 
 sidebar:
   nav: "docs"
-  
+
 # author_profile: true
 
 ---
