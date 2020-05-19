@@ -1,10 +1,13 @@
 ---
 title: Amazon Warehouse
 permalink: /projects/amazon-warehouse/
+layout: archive
+classes: wide
 
-# sidebar:
-#   nav: "docs"
-author_profile: true
+sidebar:
+  nav: "docs"
+  
+# author_profile: true
 
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: Distracted Driver Identification
 permalink: /projects/distracted-driver/
+layout: archive
+classes: wide
 
-# sidebar:
-# nav: "docs"
-author_profile: true
+sidebar:
+  nav: "docs"
 
 ---
 
