@@ -7,8 +7,8 @@ main:
   - title: "Blog"
     url: /blog/
 
-docs:
-  - title: "Projects"
+projects:
+  - title: "Personal projects"
     url: /projects
     children:
       - title: "Amazon Warehouse"
@@ -19,6 +19,13 @@ docs:
         url: /projects/distracted-driver/
       # - title: "name"
       #   url: /projects/link/
+  - title: "Research projects"
+    url: /projects
+    children:
+      - title: "Autonomous truck project"
+        url: /projects/kamaz/
+      - title: "Social aware navigation"
+        url: /projects/pomdp/
 
   # - title: "title"
   #   url: /titles/

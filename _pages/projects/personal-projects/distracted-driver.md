@@ -6,7 +6,7 @@ permalink: /projects/distracted-driver/
 classes: wide
 
 sidebar:
-  nav: "docs"
+  nav: "projects"
 
 ---
 

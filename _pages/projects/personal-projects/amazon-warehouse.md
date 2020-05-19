@@ -6,7 +6,7 @@ permalink: /projects/amazon-warehouse/
 classes: wide
 
 sidebar:
-  nav: "docs"
+  nav: "projects"
 
 # author_profile: true
 
@@ -19,4 +19,6 @@ My task was to develop a robot that autonomously navigates, detects, picks and d
 <i class="fab fa-fw fa-github"></i> [**Amazon Warehouse**](https://github.com/TheRoboticsClub/colab-gsoc2019-Shyngyskhan_Abilkassov)
 {: .notice--info}
 
-As part of Google Summer of Code 2019 I have completed the creation of the exercise infrastructure for the JdeRobot Robotics Academy. As a full time open source contributor, I have created robot model, introduced proper transformations for the sensors, intergrated global and local planners and created a map using SLAM in Gazebo using ROS.
+More details about challenges I met on my way and the ways I approached them are discussed in [my blog](https://theroboticsclub.github.io/colab-gsoc2019-Shyngyskhan_Abilkassov/)
+
+To proceed to the exercise review and completion please follow instructions in the JDERobot's Robotics Academy [repository](https://github.com/JdeRobot/RoboticsAcademy) exercise [link](https://github.com/JdeRobot/RoboticsAcademy/tree/master/exercises/amazon_warehouse)

@@ -6,7 +6,7 @@ permalink: /projects/driver-drowsiness/
 classes: wide
 
 sidebar:
-  nav: "docs"
+  nav: "projects"
 
 ---
 
