@@ -6,3 +6,22 @@ main:
     url: /projects/
   - title: "Blog"
     url: /blog/
+
+docs:
+  - title: "Projects"
+    url: /projects
+    children:
+      - title: "Amazon Warehouse"
+        url: /projects/amazon-warehouse/
+      - title: "Driver Drowsiness Estimation"
+        url: /projects/driver-drowsiness/
+      - title: "Distracted Driver Identification"
+        url: /projects/distracted-driver/
+      # - title: "name"
+      #   url: /projects/link/
+
+  # - title: "title"
+  #   url: /titles/
+  #   children:
+  #     - title: "Code"
+  #       url: /titles/codes/
