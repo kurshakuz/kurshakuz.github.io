@@ -22,9 +22,9 @@ projects:
   - title: "Research projects"
     url: /projects
     children:
-      - title: "Autonomous truck project"
+      - title: "Autonomous truck project based on KAMAZ chassis"
         url: /projects/kamaz/
-      - title: "Social aware navigation"
+      - title: "Social aware navigation using POMDP"
         url: /projects/pomdp/
 
   # - title: "title"
