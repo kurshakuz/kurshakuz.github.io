@@ -7,9 +7,6 @@ classes: wide
 
 author_profile: true
 
-# sidebar:
-#   nav: "docs"
-
 #header:
 #  overlay_color: "#5e616c"
 #  overlay_image: /assets/images/cover/header.png
