@@ -24,6 +24,8 @@ In our homeland, Kazakhstan, the biggest landlocked country in the world, extinc
 
 Our team believes that innovation is the integral part of the solution to the risen problem. The background in robotics and mechatronics dictates that the most efficient approaches are developed by implementation of cutting edge multidisciplinary technologies. Our aim is to develop and integrate this solution to the real world and make a real difference.
 
+![](/assets/images/hackaday/xAYcGwtgLCmKsoJ-1600x900-noPad.jpg){: .align-center}
+
 We aim to solve this problem with a sustainable IoT based AI solution. The solution is based on an idea to install beam reflectors, which are cheap, compact, does not require maintenance and is unharmful for the environment, to be installed in fisher's gears. The main tool, however, is to be installed on a top location which will send and receive signals at a particular frequency and monitor the exact location of each gear with respect to the ship. Additionally, the main computation unit will be equipped with GPS and IMU sensors which will monitor the location of the ship and predict its further movement. This unit will be installed on a top location of the ship, which will send and receive signals on a timed basis. The system will notify ship crew if they have reached an undesirable location where either endangered species exist or this place leads to a usual loss of a fishing inventory. These locations are to be stored in a database which will be updated accordingly to newly arrived data and make inferences about vulnerable locations using machine learning approach.
 
 ![](/assets/images/hackaday/Drawing.png){: .align-center}
@@ -37,7 +39,7 @@ We as Humans, as a responsible specy in a whole, have to find the balance with n
 Let us express sincere gratitude for giving us a chance to share our point of view on the solution of such an acute global problem.
 
 <!-- ![caterpillar](/assets/images/hackaday/team_resume.pdf) -->
-[mpi caterpillar](https://github.com/kurshakuz/kurshakuz.github.io/blob/master/assets/images/hackaday/team_resume.pdf)
+[Team Resume](https://github.com/kurshakuz/kurshakuz.github.io/blob/master/assets/images/hackaday/team_resume.pdf)
 
 Best regards,
 Shyngyskhan, Dumnukhammed, Madi
