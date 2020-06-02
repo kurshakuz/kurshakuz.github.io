@@ -9,7 +9,7 @@ permalink: /hackaday/
 
 header:
  overlay_color: "#5e616c"
- overlay_image: /assets/images/hackaday/marine_animals_in_danger_of_extinction_2806_orig
+ overlay_image: /assets/images/hackaday/marine_animals_in_danger_of_extinction_2806_orig.jpg
 
 ---
 
@@ -36,7 +36,8 @@ We as Humans, as a responsible specy in a whole, have to find the balance with n
 
 Let us express sincere gratitude for giving us a chance to share our point of view on the solution of such an acute global problem.
 
-![caterpillar](/assets/images/hackaday/team_resume.pdf)
+<!-- ![caterpillar](/assets/images/hackaday/team_resume.pdf) -->
+[mpi caterpillar](https://github.com/kurshakuz/kurshakuz.github.io/blob/master/assets/images/hackaday/team_resume.pdf)
 
 Best regards,
 Shyngyskhan, Dumnukhammed, Madi
