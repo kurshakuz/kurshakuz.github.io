@@ -21,6 +21,9 @@ single_layout_gallery:
 <i class="fab fa-fw fa-github"></i> [**Drowsiness Detection GitHub**](https://github.com/kurshakuz/drowsiness_detection)
 {: .notice--info}
 
+**Paper, results and discussions**  can be found [here](https://github.com/kurshakuz/drowsiness_detection/blob/master/Driver_Drowsiness_Detection.pdf) 
+{: .notice--warning}
+
 This is an open source implementations of the driver drowsiness estimation based on Blink Ratio and Contour Area methods. It computes driver drowsiness estimation in real-time and is based on C++ and OpenCV.
 
 {% include gallery id="single_layout_gallery" caption="Driver drowsiness estimation using two methods" %}

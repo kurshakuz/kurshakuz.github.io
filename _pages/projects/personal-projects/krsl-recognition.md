@@ -8,22 +8,15 @@ classes: wide
 sidebar:
   nav: "projects"
 
-# single_layout_gallery:
-#   - image_path: /assets/images/projects/drowsiness/driver_state1.jpg
-#     alt: "Focused driver"
-#   - image_path: /assets/images/projects/drowsiness/driver_state2.jpg
-#     alt: "Drowsy driver"
-#   - image_path: /assets/images/projects/drowsiness/driver_contour.jpg
-#     alt: "Focused driver"
-
 ---
 
 <i class="fab fa-fw fa-github"></i> [**Kazakh-Russian Sign Language recognition GitHub**](https://github.com/kurshakuz/krsl-recogniton)
 {: .notice--info}
 
-This project presents Kazakh-Russian Sign Language recognition method that involves the usage of MediaPipe library as feature extractor and LSTM RNN as a classification model to convert local video or a video stream directly into a text end-to-end. Main purpose of this project is develop general framework for further integration into robotic systems for Human-Robot Interaction projects and research, as the system implemetented is very lightweight and works on embedded systems. This is the project implemented by Shyngyskhan Abilkassov, Asset Malik, and Madi Nurmanov. 
+**Paper, results and discussions**  can be found [here](https://github.com/kurshakuz/krsl-recogniton/blob/master/KRSL_recognition.pdf) 
+{: .notice--warning}
 
-<!-- {% include gallery id="single_layout_gallery" caption="Driver drowsiness estimation using two methods" %} -->
+This project presents Kazakh-Russian Sign Language recognition method that involves the usage of MediaPipe library as feature extractor and LSTM RNN as a classification model to convert local video or a video stream directly into a text end-to-end. Main purpose of this project is develop general framework for further integration into robotic systems for Human-Robot Interaction projects and research, as the system implemetented is very lightweight and works on embedded systems. This is the project implemented by Shyngyskhan Abilkassov, Asset Malik, and Madi Nurmanov. 
 
 ### MediaPipe feature extraction
 MediaPipe is a very useful tool that was have used as an alternative for OpenPose library. It is capable of extracting feature points of person's hands from a video, locating them and classifying the spatial orientation of each finger separately. Use of MediaPipe freed accelerated the work, since it provided a ready framework and training separate convolutional neural network was not required. It helped to focus directly on development of algorithm of recognizing the signs.
@@ -52,20 +45,10 @@ The final architecture consists of seven LSTM layers each consisting of 64 nodes
 
 
 ### Results
-The training was made on Isolated Signs dataset which consists of 20 classes, each corresponding to a particular word. These words are shown in the table. Some of the words had a pair with words that have a question mark in the end. Therefore, some classes were of high similarity with only minor gloss difference. The input to the model is a vector consisting of 84 data points. Each hand has 21 landmarks, with point having x and y coordinates, made for two hands. As there were some videos where only one hand visible, the left data points were filled with zeros. The training data was split into two parts: training and validation. Validation data used was 10% of the whole data. The final training was made for 250 epochs which took only approximately 2 hours of GPU training on a laptop. The final accuracy achieved was 88.74%. Afterwards, training also was done using the short list data from the KRSL dataset shown in Table below, and training accuracy peaked at around 70% accuracy with 100 of epoch for training. Nevertheless it has shown that the RNN can be trained on a more complex data as multiple words and collocations, but more data and time for training is required.
+The training was made on Isolated Signs dataset which consists of 20 classes, each corresponding to a particular word. These words are shown in the table. Some of the words had a pair with words that have a question mark in the end. Therefore, some classes were of high similarity with only minor gloss difference. The input to the model is a vector consisting of 84 data points. Each hand has 21 landmarks, with point having x and y coordinates, made for two hands. As there were some videos where only one hand visible, the left data points were filled with zeros. The training data was split into two parts: training and validation. Validation data used was 10% of the whole data. The final training was made for 250 epochs which took only approximately 2 hours of GPU training on a laptop. The final accuracy achieved was 88.74%. Afterwards, training also was done using the short list data from the KRSL dataset shown in table below, and training accuracy peaked at around 70% accuracy with 100 of epoch for training. Nevertheless it has shown that the RNN can be trained on a more complex data as multiple words and collocations, but more data and time for training is required.
 
 ![](/assets/images/projects/krsl/accuracy.png){: .align-center}
 
             
 ### Discussion and Conclusion
-The resulting system is a prototype of Kazakh-Russian Sign Language recognition pipeline. It uses a video as an input and produces text output as a result of several processing techniques application. 
-Accuracy of the solution, which fluctuates around 88% is a good result. However it can cause some undesirable artifacts or create sources of miscommunication. Usage of larger datasets in combination with further tuning of the parameters of neural networks can contribute in the overall improvement of the system.
-Another essential application of larger dataset processing is expansion of the dictionary that the system operates and interprets. Currently, the short list is consisting only of 10 phrases, which is a small part of KRSL dataset. Including the total of 173 phrases from KRSL and combining them with other sources can influence the performance of the system and possible application. 
-Afterwards, the question of testing the system in the real-world conditions rises, as it is required for more rigorous accuracy estimation.
-However, it all will be possible in less limited time constraint and with the introduction of more computational power. COVID-19 pandemics resulted in the work from home situation, where equipment is not suitable for efficient processing of large amount of data. GPU computations would drastically improve the training process, but at the moment of this report submission they were not available. 
-
-
-<!-- In this projects, landmarks for feature identification followed by mask for region extraction, binarization, erosion and dilation for iris size estimation for further drowsiness estimation for contour area method. On the other hand, landmarks are directly used to find points of interest which are then directly used to compute eye blink ratio. The pipeline of both algorithm is as follows:
-
-Both of these methods outputs the average closed eye instances per given frame number, which is then used to compute average drowsiness. Yawning is used as an additional drowsiness indicator independently. The overall algorithm struture is as follows:
-![](/assets/images/projects/drowsiness/Algorithm.png){: .align-center} -->
+The resulting system is a prototype of Kazakh-Russian Sign Language recognition pipeline. It uses a video as an input and produces text output as a result of several processing techniques application.  Accuracy of the solution, which fluctuates around 88% is a good result. However it can cause some undesirable artifacts or create sources of miscommunication. Usage of larger datasets in combination with further tuning of the parameters of neural networks can contribute in the overall improvement of the system. Another essential application of larger dataset processing is expansion of the dictionary that the system operates and interprets. Currently, the short list is consisting only of 10 phrases, which is a small part of KRSL dataset. Including the total of 173 phrases from KRSL and combining them with other sources can influence the performance of the system and possible application. 

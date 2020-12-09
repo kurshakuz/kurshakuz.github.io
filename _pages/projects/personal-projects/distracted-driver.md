@@ -27,7 +27,8 @@ second_layout_gallery:
 <i class="fab fa-fw fa-github"></i> [**Distracted Driver Detection GitHub**](https://github.com/kurshakuz/distracted_driver_detection)
 {: .notice--info}
 
-[Paper, results and discussions](https://github.com/kurshakuz/distracted_driver_detection/blob/master/Machine_Learning_Project_Report.pdf) 
+**Paper, results and discussions**  can be found [here](https://github.com/kurshakuz/distracted_driver_detection/blob/master/Machine_Learning_Project_Report.pdf) 
+{: .notice--warning}
 
 This work is initially inspired by the State Farm's Distracted Driver Detection [Competition](https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview) and by the work done by [Eraqi et al.](https://heshameraqi.github.io/distraction_detection)
 
