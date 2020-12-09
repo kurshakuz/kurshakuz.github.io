@@ -17,6 +17,8 @@ projects:
         url: /projects/driver-drowsiness/
       - title: "Distracted Driver Posture and Head Position Identification via m-CNNs"
         url: /projects/distracted-driver/
+      - title: "Kazakh-Russian Sign Langugage Recognition"
+        url: /projects/krsl-recognition/
       # - title: "name"
       #   url: /projects/link/
   - title: "Research projects"

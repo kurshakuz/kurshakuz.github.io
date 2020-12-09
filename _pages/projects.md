@@ -39,6 +39,14 @@ projects:
     btn_class: "btn--primary"
     btn_label: "Learn more"   
 
+  - image_path: /assets/images/projects/krsl/doborii.png
+    alt: "Kazakh-Russian Sign Langugage Recognition using MediaPipe and LSTM"
+    title: "Kazakh-Russian Sign Langugage Recognition using MediaPipe and LSTM"
+    # excerpt: ""
+    url: "/projects/krsl-recognition/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"   
+
 feature_row:
   - image_path: /assets/images/projects/kamaz/preview.png
     alt: "Autonomous truck project"
