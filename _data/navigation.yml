@@ -8,26 +8,31 @@ main:
     url: /blog/
 
 projects:
-  - title: "Personal projects"
-    url: /projects
-    children:
-      - title: "Autonomous pallet distribution in Amazon warehouse"
-        url: /projects/amazon-warehouse/
-      - title: "Open source Driver Drowsiness Estimation"
-        url: /projects/driver-drowsiness/
-      - title: "Distracted Driver Posture and Head Position Identification via m-CNNs"
-        url: /projects/distracted-driver/
-      - title: "Kazakh-Russian Sign Langugage Recognition"
-        url: /projects/krsl-recognition/
-      # - title: "name"
-      #   url: /projects/link/
-  - title: "Research projects"
+  - title: "Projects"
     url: /projects
     children:
       - title: "Autonomous truck project based on KAMAZ chassis"
         url: /projects/kamaz/
+      - title: "Autonomous pallet distribution in Amazon warehouse"
+        url: /projects/amazon-warehouse/
+      - title: "Kazakh-Russian Sign Langugage Recognition"
+        url: /projects/krsl-recognition/
       - title: "Social aware navigation using POMDP"
         url: /projects/pomdp/
+      - title: "Open source Driver Drowsiness Estimation"
+        url: /projects/driver-drowsiness/
+      - title: "Distracted Driver Posture and Head Position Identification via m-CNNs"
+        url: /projects/distracted-driver/
+      # - title: "name"
+      #   url: /projects/link/
+      
+  # - title: "Research projects"
+  #   url: /projects
+  #   children:
+  #     - title: "Autonomous truck project based on KAMAZ chassis"
+  #       url: /projects/kamaz/
+  #     - title: "Social aware navigation using POMDP"
+  #       url: /projects/pomdp/
 
   # - title: "title"
   #   url: /titles/
