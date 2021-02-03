@@ -17,10 +17,11 @@ author_profile: true
 
 Hi, my name is Shyngyskhan Abilkassov! I was born in Shuchinsck (Burabay) and now live in Astana, Kazakhstan. I enjoy listening to music, active tourism, snowboarding, and a little bit of playing the guitar. I also love reading historical (Les Rois maudits) as well as epic fantasy books like A Song of Ice and Fire.
 
-Burabay                   |         Astana
+<!-- Burabay                   |         Astana
 :-------------------------:|:-------------------------:
-![](/assets/images/me/burabay.jpg)  |  ![](/assets/images/me/astana.jpg)
+![](/assets/images/me/burabay.jpg)  |  ![](/assets/images/me/astana.jpg) -->
 
+![](/assets/images/me/burabay.jpg) ![](/assets/images/me/astana.jpg)
 
 I have bilingual fluency in both Kazakh and Russian, an advanced academic English level, and an A1 proficiency in German.
 
